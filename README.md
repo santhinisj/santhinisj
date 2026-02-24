@@ -27,13 +27,13 @@ I am a Software Engineer with over 7 years of experience specializing in buildin
 
 ### 📈 Experience Snapshot
 
-- ** Rakuten Rewards**  
+- **Rakuten Rewards**  
   Led frontend work for the Sephora x Rakuten+ partnership, delivering high-accuracy financial UI and WCAG-compliant flows.
 
-- ** Autodesk**  
+- **Autodesk**  
   Owned frontend architecture for large-scale SaaS applications and evolved monorepo structures to support enterprise workflows.
 
-- ** Rizort Technologies**  
+- **Rizort Technologies**  
   Led end-to-end development of a Slack-based Rewards & Recognition platform using Node.js and Bolt.js.
 
 ---
